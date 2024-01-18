@@ -1,10 +1,7 @@
 version = 1
 
 [[analyzers]]
-name = "shell"
-
-[[analyzers]]
 name = "go"
 
   [analyzers.meta]
-  import_root = "github.com/ThingsPanel/ThingsPanel-Go"
+  import_root = "github.com/steezer/ThingsPanel-Go"
